@@ -9,7 +9,7 @@ const URL_STREAMING = 'https://stream.zeno.fm/w4mm9q8y1tzuv';
 // For example, if the mount point is 'yn65fsaurfhvv/source',
 // the API link will be 'https://api.zeno.fm/mounts/metadata/subscribe/yn65fsaurfhvv'.
 
-const url = 'https://api.zeno.fm/mounts/metadata/subscribe/gaubcs6canzuv';
+const url = 'https://api.zeno.fm/mounts/metadata/subscribe/w4mm9q8y1tzuv';
 
 // Visit https://api.vagalume.com.br/docs/ to get your API key
 const API_KEY = "18fe07917957c289983464588aabddfb";
